@@ -26,5 +26,12 @@
     "preco": 2999,
     "estoque": 1654,
     "categoria": "Video Game"
+  },
+  {
+    "id": 5,
+    "nome": "Pendrive 256Mb",
+    "preco": 49.9,
+    "estoque": 25,
+    "categoria": "Acessórios"
   }
 ]
